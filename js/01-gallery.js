@@ -1,7 +1,8 @@
-import galleryItems from "./gallery-items.mjs";
 
-import SimpleLightbox from "./simplelightbox/dist/simple-lightbox.js";
-console.log(SimpleLightbox);
+import { galleryItems } from "./gallery-items.js";
+import SimpleLightbox from "../node_modules/simplelightbox/dist/simple-lightbox.js";
+
+
 // Change code below this line
 
 // Defining DOM elements
