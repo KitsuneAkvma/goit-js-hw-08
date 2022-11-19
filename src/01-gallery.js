@@ -1,6 +1,9 @@
-import galleryItems from "./gallery-items.mjs";
+import { galleryItems } from "./gallery-items.js";
+console.log(galleryItems);
 
-import SimpleLightbox from "./simplelightbox/dist/simple-lightbox.js";
+import "simplelightbox/dist/simple-lightbox.css";
+import SimpleLightbox from "simplelightbox";
+
 console.log(SimpleLightbox);
 // Change code below this line
 
