@@ -1,6 +1,7 @@
 {
   "name": "goit-js-hw-08",
   "version": "1.0.0",
+<<<<<<< Updated upstream
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +12,26 @@
   "license": "ISC",
   "dependencies": {
     "@vimeo/player": "^2.18.0",
+=======
+  "description": "zadanie domowe nr 8, moduł JS ",
+  "main": "js/01-gallery.js",
+  "scripts": {
+    "start": "node js/01-gallery.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KitsuneAkvma/goit-js-hw-08.git"
+  },
+  "author": "Mateusz Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KitsuneAkvma/goit-js-hw-08/issues"
+  },
+  "homepage": "https://github.com/KitsuneAkvma/goit-js-hw-08#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1",
+>>>>>>> Stashed changes
     "simplelightbox": "^2.10.4"
   }
 }
