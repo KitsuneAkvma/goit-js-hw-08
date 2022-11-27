@@ -3,11 +3,11 @@ const path = require("path");
 module.exports = {
   entry: {
     gallery: [
-      "./src/01-gallery.js",
+      "./src/js/01-gallery.js",
       "./node_modules/simplelightbox/dist/simple-lightbox.css",
     ],
-    video: ["./src/02-video.js"],
-    feedback: ["./src/03-feedback.js"],
+    video: ["./src/js/02-video.js"],
+    feedback: ["./src/js/03-feedback.js"],
   },
   mode: "development",
   output: {

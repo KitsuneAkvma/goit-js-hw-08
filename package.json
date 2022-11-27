@@ -2,32 +2,38 @@
   "name": "goit-js-hw-08",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "homepage": "https://github.com/KitsuneAkvma/goit-js-hw-08#readme",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack"
+    "build-node": "webpack",
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KitsuneAkvma/goit-js-hw-08.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mateusz Martin <mateusz.martinn@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/KitsuneAkvma/goit-js-hw-08/issues"
   },
-  "homepage": "https://github.com/KitsuneAkvma/goit-js-hw-08#readme",
   "dependencies": {
     "@vimeo/player": "^2.18.0",
     "lodash.throttle": "^4.1.1",
-    "simplelightbox": "^2.10.4"
+    "simplelightbox": "^2.10.4",
+    "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
     "css-loader": "^6.7.2",
     "path": "^0.12.7",
     "style-loader": "^3.3.1",
     "webpack": "^5.75.0",
-    "webpack-cli": "^5.0.0"
-  }
+    "webpack-cli": "^5.0.0",
+    "@parcel/transformer-sass": "^2.6.0",
+    "parcel": "^2.6.0",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^1.7.4"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
 }
