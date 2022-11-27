@@ -1,6 +1,6 @@
 7537
 134C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\events\tests\modify-in-emit.js133133576438686508 0
-110C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\src\01-gallery.html133140633003303072 0
+110C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\src\01-gallery.html133140647958574901 0
 126C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\randombytes\browser.js133133576436154979 0
 118C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\to-regex-range133140599829105058 1
 142C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack-cli\lib\plugins\CLIPlugin.d.ts133133576438666575 0
@@ -17,16 +17,16 @@
 151C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\lib\hmr\HotModuleReplacement.runtime.js133133576446930183 0
 149C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\simplelightbox\dist\simple-lightbox.legacy.js133133553889607700 0
 161C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-gnu.node133140599946526607 0
-108C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\src\02-video.html133140633195833546 0
+108C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\src\02-video.html133140650332568333 0
 127C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\svgo\lib\stringifier.js133140599832976387 0
 148C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@webassemblyjs\helper-api-error\lib\index.js133133576436374245 0
 147C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\lib\serialization\FileMiddleware.js133133576445961114 0
 98C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\.github133140631708021772 1
 139C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\lib\UnhandledSchemeError.js133133576451595891 0
 121C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\readdirp\index.js133140599828549467 0
-121C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@msgpackr-extract133140600239851055 1
+121C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@msgpackr-extract133140638713236765 1
 139C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\schemas\WebpackOptions.json133133576453111608 0
-111C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\src\03-feedback.html133140633274112767 0
+111C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\src\03-feedback.html133140650390531631 0
 135C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\css-select\lib\general.d.ts.map133140599831486211 0
 127C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\semver\functions\inc.js133133601809046327 0
 133C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\terser\lib\compress\common.js133133576439394968 0
@@ -47,7 +47,7 @@
 114C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\terser\lib133133576441005310 1
 138C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\lib\CompatibilityPlugin.js133133576441997103 0
 131C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\fs\lib\index.js.map133140599914922486 0
-94C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\src133140634963825137 1
+94C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\src133140647711710175 1
 129C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\yaml\browser\parse-cst.js133140599831625747 0
 136C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@webassemblyjs\leb128\lib\leb.js133133576438158275 0
 143C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\lib\library\AmdLibraryPlugin.js133133576438457275 0
@@ -127,12 +127,12 @@
 156C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\schemas\plugins\LoaderOptionsPlugin.check.js133133576448659993 0
 127C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\nanoid\index.browser.js133133601808447648 0
 135C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\workers\src\cpuCount.js133140599911310667 0
-95C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist133140635622064204 1
+95C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist133140650637090121 1
 114C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\source-map133133576438905779 1
 111C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\pkg-dir133133576436444009 1
 119C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\.github\workflows\deploy.yml133140631708021772 0
 145C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\resolve\test\resolver\false_main\index.js133133576440605994 0
-103C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules133140600239841087 1
+103C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules133140638713236765 1
 120C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\core\src133140599911430270 1
 131C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\cosmiconfig\dist\loaders.js133140599830568087 0
 156C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\caniuse-lite\data\features\form-submit-attributes.js133133576447926848 0
@@ -141,7 +141,7 @@
 146C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\lib\rules\BasicEffectRulePlugin.js133133576440616040 0
 120C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\terser\README.md133133576441289472 0
 128C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\nth-check\lib\compile.js133140599828657990 0
-108C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\package-lock.json133140632497416303 0
+108C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\package-lock.json133140638713762278 0
 133C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\css-select\lib\index.d.ts.map133140599831565946 0
 126C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\reusify\.coveralls.yml133140599828559432 0
 138C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@discoveryjs\json-ext\src\index.js133133576435536163 0
@@ -149,7 +149,7 @@
 138C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack-merge\dist\merge-with.d.ts133133576438995474 0
 108C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\sass133140599924061409 1
 120C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\fclone\README.md133140599828859912 0
-103C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\package.json133140632589331853 0
+103C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\package.json133140641551550967 0
 124C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@nodelib\fs.walk\out133140599831665611 1
 132C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\node-addon-api\noexcept.gypi133140599829511621 0
 155C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\caniuse-lite\data\features\native-filesystem-api.js133133576450629113 0
@@ -160,7 +160,7 @@
 141C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@nodelib\fs.stat\out\types\index.d.ts133140599831146152 0
 133C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\lib\logging\Logger.js133133576448819501 0
 130C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\watcher\src\shared133140599868241066 1
-108C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\webpack.config.js133140632660974576 0
+108C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\webpack.config.js133140637635161301 0
 121C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\lib\debug133133576450280184 1
 108C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@swc133140599824354950 1
 143C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\lib\dependencies\LocalModule.js133133576448729754 0
@@ -180,7 +180,7 @@
 127C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack-sources\LICENSE133133576435137493 0
 123C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\htmlparser2\LICENSE133140599828180703 0
 108C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\.bin133140600236826231 1
-105C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\src\index.html133140635593503458 0
+105C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\src\index.html133140647711710175 0
 146C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\core\node_modules\semver\range.bnf133140599829015355 0
 129C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\packager-html\src133140599849658886 1
 140C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\resolve\test\resolver\same_names\foo133133576440815335 1
@@ -249,7 +249,7 @@
 120C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\type-fest\source133140599832378385 1
 113C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@mischnic133140599824315084 1
 152C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\lib\serialization\MapObjectSerializer.js133133576448889214 0
-122C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\.package-lock.json133140600240789798 0
+122C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\.package-lock.json133140638713950615 0
 149C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\caniuse-lite\data\features\x-frame-options.js133133576454906105 0
 156C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\lib\dependencies\RequireIncludeDependency.js133133576450748720 0
 110C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\braces133140599829790688 1
@@ -264,7 +264,7 @@
 137C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\resolve\test\resolver\baz\doom.js133133576439504592 0
 131C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\postcss\lib\previous-map.js133133601809499918 0
 113C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\yaml\dist133140599832557786 1
-109C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@lmdb133140600239851055 1
+109C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@lmdb133140638713236765 1
 153C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@jridgewell\trace-mapping\dist\types\resolve.d.ts133133576438397475 0
 131C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\bundler-default\src133140599854902534 1
 158C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two133140599912327267 1
@@ -509,7 +509,6 @@
 137C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\htmlnano\docs\docs\040-presets.md133140599833773715 0
 126C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\resolve\test\filter.js133133576439703930 0
 121C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\yallist\README.md133133601808308115 0
-118C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\01-gallery.d94cc3a5.js133140635621685474 0
 160C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\node-resolver-core\node_modules\semver\semver.js133140599829720925 0
 120C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\enhanced-resolve133133576440326920 1
 127C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\csso\lib\clean\index.js133140599832119300 0
@@ -984,7 +983,6 @@
 144C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\resolve\test\resolver\browser_field\a.js133133576438028708 0
 127C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\semver\classes\index.js133133601809046327 0
 124C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\posthtml-expressions133140599835278687 1
-119C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\01-gallery.df122d8a.css133140635621675502 0
 147C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@webassemblyjs\helper-wasm-bytecode\LICENSE133133576435416557 0
 121C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\schema-utils\dist133133576437819404 1
 139C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\svgo\node_modules\commander\typings133140599830588020 1
@@ -1015,7 +1013,6 @@
 128C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\resolve-cwd\package.json133133576434958106 0
 129C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\neo-async\eachOfSeries.js133133576440002931 0
 123C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\react-error-overlay133140599830568087 1
-119C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\03-feedback.1aa7856f.js133140635621685474 0
 134C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\type-fest\source\asyncify.d.ts133140599829830557 0
 139C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\postcss-modules-values\src\index.js133133601808200055 0
 120C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\cssesc\cssesc.js133133601808200055 0
@@ -1545,7 +1542,7 @@
 143C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\enhanced-resolve\lib\getInnerRequest.js133133576438895808 0
 117C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\timsort\build133140599830159456 1
 153C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\lib\optimize\RemoveParentModulesPlugin.js133133576450629113 0
-120C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\03-feedback.3d0f30fc.css133140635621675502 0
+120C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\03-feedback.3d0f30fc.css133140650636933886 0
 159C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack-sources\lib\helpers\splitIntoPotentialTokens.js133133576439055275 0
 137C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@webassemblyjs\leb128\lib\bits.js133133576437620077 0
 158C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack-sources\lib\helpers\streamChunksOfRawSource.js133133576439325195 0
@@ -2025,7 +2022,6 @@
 130C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\graph\package.json133140599886209269 0
 131C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\utils\src\stream.js133140599891544082 0
 143C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\fast-json-stable-stringify\package.json133133576438317742 0
-123C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\03-feedback.e1e4100c.js.map133140635621994437 0
 145C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\lib\HotModuleReplacementPlugin.js133133576446940152 0
 133C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\lib\HotUpdateChunk.js133133576446980023 0
 144C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@nodelib\fs.walk\out\providers\stream.js133140599830857119 0
@@ -2486,7 +2482,6 @@
 131C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\node-addon-api\package.json133140599831426413 0
 128C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\react-refresh\runtime.js133140599830279053 0
 144C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\css-select\lib\pseudo-selectors\index.js133140599830548153 0
-119C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\03-feedback.e1e4100c.js133140635621685474 0
 145C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\lib\hmr\lazyCompilationBackend.js133133576448540384 0
 129C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\fs\lib\browser.js133140599910413662 0
 156C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\lib\esm\ExportWebpackRequireRuntimeModule.js133133576445791721 0
@@ -2637,11 +2632,13 @@
 133C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\ajv\lib\dotjs\_limitLength.js133133576438527045 0
 120C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\uri-js\yarn.lock133133576439185660 0
 156C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\lib\dependencies\RequireContextDependency.js133133576450659025 0
+118C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\01-gallery.3cf9fa3c.js133140650636933886 0
 118C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\tslib\tslib.js133140599829940188 0
 168C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\lib\dependencies\RequireContextDependencyParserPlugin.js133133576450668988 0
 152C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\webpack\lib\dependencies\RequireContextPlugin.js133133576450678963 0
 126C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\detect-libc\.npmignore133140599828609264 0
 134C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\css-what\lib\es\parse.d.ts.map133140599831207149 0
+123C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\01-gallery.f63c9b5f.css.map133140650637090121 0
 135C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\caniuse-lite\data\regions\NL.js133133576450938103 0
 126C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\schema-utils\dist\util133133576437251308 1
 122C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\fs\LICENSE133140599908482918 0
@@ -3439,7 +3436,6 @@
 126C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\semver\ranges\valid.js133133601809520688 0
 126C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\color-convert\route.js133140599830139522 0
 132C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\semver\internal\constants.js133133601808916088 0
-122C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\01-gallery.d94cc3a5.js.map133140635622004427 0
 135C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\caniuse-lite\data\regions\AU.js133133576440152426 0
 126C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\glob-to-regexp\test.js133133576436842672 0
 123C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\ansi-styles\license133140599828250470 0
@@ -3646,7 +3642,6 @@
 157C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\resolve\test\resolver\malformed_package_json\index.js133133576440645859 0
 154C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\postcss-selector-parser\dist\util\stripComments.js133133601808756612 0
 163C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.c133140599889681430 0
-123C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\01-gallery.df122d8a.css.map133140635621994437 0
 160C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\runtime-js\lib\helpers\browser\preload-loader.js133140599842011769 0
 161C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\resolve\test\resolver\malformed_package_json\package.json133133576442007067 0
 151C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\resolve\test\resolver\invalid_main\package.json133133576441987133 0
@@ -3808,6 +3803,7 @@
 155C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\posthtml\node_modules\posthtml-parser\dist\index.js133140599829005391 0
 168C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.d.ts133140599830388686 0
 154C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\postcss-selector-parser\dist\selectors\selector.js133133601808696814 0
+122C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\01-gallery.3cf9fa3c.js.map133140650637090121 0
 123C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\posthtml\lib\api.js133140599828697858 0
 132C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\package-manager\test133140599912018306 1
 125C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\posthtml\lib\index.js133140599828995424 0
@@ -4038,7 +4034,6 @@
 118C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\path\README.md133133628660706963 0
 123C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\parse-json\index.js133140599828589334 0
 122C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\parse-json\license133140599828220566 0
-122C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\01-gallery.6b3bcd55.js.map133140635622034300 0
 124C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\parse-json\readme.md133140599829193635 0
 126C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\parent-module\index.js133140599828579366 0
 123C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\lmdb\src\cursor.cpp133140599910991734 0
@@ -4267,7 +4262,7 @@
 132C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\css-select\lib\sort.d.ts.map133140599831693549 0
 134C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\css-loader\dist\runtime\api.js133133601809046327 0
 120C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\neo-async\all.js133133576435476363 0
-112C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\03-feedback.html133140635621675502 0
+112C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\03-feedback.html133140650636933886 0
 125C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\neo-async\allLimit.js133133576435815223 0
 159C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\optimizer-image\parcel-image.linux-x64-gnu.node133140599967704138 0
 126C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\neo-async\anySeries.js133133576437679878 0
@@ -4533,6 +4528,7 @@
 119C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\find-up\license133133576436125079 0
 118C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\lmdb\README.md133140599925863989 0
 138C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\fast-json-stable-stringify\.github133133576438915765 1
+119C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\03-feedback.ef701ad4.js133140650636933886 0
 125C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\lmdb\rollup.config.js133140599920234738 0
 119C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\clone\clone.iml133140599829930221 0
 137C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\domelementtype\lib\index.d.ts.map133140599830259122 0
@@ -4989,7 +4985,6 @@
 138C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\cosmiconfig\dist\ExplorerBase.d.ts133140599832179051 0
 136C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\fast-glob\out\utils\pattern.d.ts133140599832517917 0
 134C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\fast-glob\out\utils\pattern.js133140599831585883 0
-120C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\02-video.65ca3b06.js.map133140635622024337 0
 140C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\enhanced-resolve\lib\ResultPlugin.js133133576440012896 0
 135C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\fast-glob\out\utils\stream.d.ts133140599832647482 0
 127C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\color-convert\README.md133140599829940188 0
@@ -5094,7 +5089,7 @@
 131C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@webassemblyjs\wasm-gen\lib133133576437679878 1
 152C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\entities\lib\generated\decode-data-html.d.ts.map133140599831286878 0
 151C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\entities\lib\generated\decode-data-xml.d.ts.map133140599831326747 0
-111C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\01-gallery.html133140635621665537 0
+111C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\01-gallery.html133140650393593613 0
 145C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\entities\lib\generated\decode-data-xml.js133140599829850488 0
 128C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\packager-raw\src133140599846530003 1
 135C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@webassemblyjs\ast\lib\clone.js133133576439215565 0
@@ -5312,7 +5307,6 @@
 144C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\css-tree\lib\syntax\pseudo\common\nth.js133140599833743817 0
 142C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\core\src\public\BundleGraph.js133140599907426449 0
 138C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\Atrule.js133140599829790688 0
-123C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\03-feedback.1aa7856f.js.map133140635621994437 0
 145C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\AtrulePrelude.js133140599830029888 0
 132C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\reporter-cli\LICENSE133140599861215468 0
 149C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133140599830647819 0
@@ -5530,7 +5524,6 @@
 135C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\caniuse-lite\data\regions\CK.js133133576441887465 0
 135C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\caniuse-lite\data\regions\CO.js133133576442007067 0
 135C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\caniuse-lite\data\regions\CR.js133133576442257233 0
-118C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\01-gallery.6b3bcd55.js133140635621695434 0
 132C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\logger\lib\Logger.js133140599901111863 0
 135C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\caniuse-lite\data\regions\CU.js133133576446292337 0
 135C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\caniuse-lite\data\regions\CX.js133133576446401956 0
@@ -6055,7 +6048,7 @@
 147C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\caniuse-lite\data\features\tabindex-attr.js133133576453161445 0
 142C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\caniuse-lite\data\features\temporal.js133133576453231208 0
 149C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\caniuse-lite\data\features\text-decoration.js133133576453264338 0
-124C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\03-feedback.3d0f30fc.css.map133140635621984466 0
+124C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\03-feedback.3d0f30fc.css.map133140650636933886 0
 147C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\caniuse-lite\data\features\text-emphasis.js133133576453284266 0
 147C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\caniuse-lite\data\features\text-overflow.js133133576453294261 0
 143C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\reporter-cli\lib\CLIReporter.js133140599863608519 0
@@ -7151,7 +7144,7 @@
 189C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up133140599839263064 1
 190C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\source-not-symlinked\package.json133140599839263064 0
 193C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up\foo133140599839263064 1
-123C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\01-gallery.40c4146b.css.map133140635621984466 0
+123C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\01-gallery.40c4146b.css.map133140650636933886 0
 202C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up\package.json133140599839263064 0
 206C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up\foo\package.json133140599839263064 0
 210C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up\foo\bar\package.json133140599839263064 0
@@ -7530,9 +7523,16 @@
 124C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\.bin\webpack-cli.cmd133133576455657165 0
 124C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\.bin\webpack-cli.ps1133133576455657165 0
 120C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\node_modules\.bin\webpack.ps1133133576455617258 0
-119C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\01-gallery.40c4146b.css133140635621665537 0
-116C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\02-video.37b45dc7.js133140635621685474 0
-120C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\02-video.37b45dc7.js.map133140635622004427 0
-116C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\02-video.65ca3b06.js133140635621685474 0
-109C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\02-video.html133140635621665537 0
-106C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\index.html133140635621665537 0
+118C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\01-gallery.24ce51ca.js133140650636933886 0
+122C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\01-gallery.24ce51ca.js.map133140650637090121 0
+119C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\01-gallery.40c4146b.css133140650636933886 0
+119C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\01-gallery.f63c9b5f.css133140650636933886 0
+116C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\02-video.3c339ade.js133140650636933886 0
+120C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\02-video.3c339ade.js.map133140650637090121 0
+116C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\02-video.7b4ea4e7.js133140650636933886 0
+120C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\02-video.7b4ea4e7.js.map133140650637090121 0
+109C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\02-video.html133140650636933886 0
+119C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\03-feedback.8005dfa1.js133140650636933886 0
+123C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\03-feedback.8005dfa1.js.map133140650637090121 0
+123C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\03-feedback.ef701ad4.js.map133140650637090121 0
+106C:\Users\mateu\Documents\GitHub\GoIT\Zadania domowe\JavaScript\goit-js-hw-08\goit-js-hw-08\dist\index.html133140650393533741 0
