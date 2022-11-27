@@ -10,15 +10,12 @@ let inputData = {
   email: "",
   message: "",
 };
-
 const listenEmailInput = () => {
   // save input value to temp. object
   inputData["email"] = emailInput.value;
 
   //convert temp. object with inputs data to json and save it in local storage
   localStorage.setItem("feedback-form-state", JSON.stringify(inputData));
-
-  console.log(inputData);
 };
 
 const listenMessageInput = () => {
@@ -34,12 +31,13 @@ const listenMessageInput = () => {
 // do things on page load
 window.addEventListener("load", () => {
   // get last session input data if it exists
-  if (localStorage.getItem("fefeedback-form-state")) {
-    inputData = JSON.parse(localStorage["feedback-form-state"]);
+  if (localStorage.getItem("feedback-form-state")) {
+    inputData = JSON.parse(localStorage.getItem("feedback-form-state"));
 
     // load last session data to inputs
     emailInput.value = inputData["email"];
     messageInput.value = inputData["message"];
+    console.log(inputData);
   }
 });
 
